@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "node-fetch": "^3.3.2",
+    "three": "^0.159.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.3"
+  }
+}

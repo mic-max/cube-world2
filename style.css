@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: #090909;
+}
+
+select {
+    margin: auto;
+    /* text-align: center; */
+    width: 800px;
+    font-size: 64px;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    background-color: transparent;
+    border-color: limegreen;
+    color: limegreen;
+}
+
+select option {
+    background-color: #191919;
+}
+
+input[type="range"] {
+    height: 14px;
+    width: 700px;
+}
+
+label {
+    color: limegreen;
+}
+
+#sliders {
+    margin-top: 180px;
+    position: absolute;
+}
+
+button {
+    position: absolute;
+    top: 60px;
+    left: 900px;
+    width: 200px;
+    font-size: 64px;
+    background-color: transparent;
+    color: limegreen;
+    border: solid 1px limegreen;
+}
+
+button:hover {
+    cursor: pointer;
+}
